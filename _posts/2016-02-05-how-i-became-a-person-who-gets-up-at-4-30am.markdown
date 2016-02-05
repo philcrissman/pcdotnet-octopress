@@ -3,6 +3,7 @@ layout: post
 title: "How I Became a Person Who Gets Up at 4:30AM"
 date: 2016-02-05T05:31:23-08:00
 comments: true
+tags: discipline
 ---
 
 ![wake-up](/images/wake-up.jpg)
