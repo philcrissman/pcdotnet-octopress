@@ -6,7 +6,7 @@ permalink: /now/
 
 I'm currently
 
-* Living in Sammamish, near Seattle, Washington. 
+* Living in [Sammamish](https://goo.gl/maps/2HXKn1zg8e22), near Seattle, Washington. 
 * Spending as much time as possible with my wife and two boys, born 2011 and 2014 respectively.
 * Working for [Microsoft](http://microsoft.com) on [Yammer](http://yammer.com).
 * Just bought and moved into a home, so still unpacking, finding things to fix, and planning projects.
@@ -26,4 +26,3 @@ I'm currently
   * [Reconcilable Differences](https://www.relay.fm/rd)
 * Audible
   * [33 Strategies of War](http://amzn.to/1SxmMMY) by Robert Greene
-
