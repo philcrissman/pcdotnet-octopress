@@ -26,3 +26,5 @@ I'm currently
   * [Reconcilable Differences](https://www.relay.fm/rd)
 * Audible
   * [33 Strategies of War](http://amzn.to/1SxmMMY) by Robert Greene
+* Reading
+  * Lean Architecture
