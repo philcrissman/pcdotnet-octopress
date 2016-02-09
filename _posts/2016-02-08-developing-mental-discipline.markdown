@@ -10,7 +10,7 @@ Listening to the [Jocko Podcast](http://jockopodcast2.com/) the other day, Jocko
 
 I think this is 100% true, but that doesn't change that for many folks, this is not _enough_ advice. They want a step, or steps. What do you do that first time you're tempted to quit? What do you tell yourself that first time (or second, or third) that you're tempted to get off the program? To _make an exception_? Is there a technique? Is there a way to get over that?
 
-In one sense, I think it still does come back to Jocko's advice. The way to do a thing is to _do it_. They way to not do a thing is to _stop doing it_.
+In one sense, I think it still does come back to Jocko's advice. The way to do a thing is to _do it_. The way to not do a thing is to _stop doing it_.
 
 But.
 
