@@ -5,13 +5,16 @@ title: blog
 ---
 
   <h1 class="content-listing-header sans">Articles</h1>
-  <ul class="content-listing ">
+  <!-- <ul class="content-listing "> -->
+  <!-- <ul> -->
     {% for post in site.posts %}      
-        <li class="listing">
+        <!-- <li class="listing"> -->
+        <article class="group">
           <hr class="slender">
           <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
           <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
-          <div>{{ post.excerpt }}</div> 
-        </li>
+          <div>{% if post.excerpt %}{{ post.excerpt }}<a href="{{ post.url | prepend: site.baseurl }}">&raquo; continue reading</a>{% endif %}</div> 
+        </article>
+        <!-- </li> -->
     {% endfor %}
-  </ul>
+  <!-- </ul> -->

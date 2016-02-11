@@ -6,7 +6,7 @@ comments: true
 tags: discipline
 ---
 
-![wake-up](/images/wake-up.jpg)
+{% marginfigure "wake-up" "images/wake-up.jpg" "The Time is Now" %}
 
 I used to stay up late, as late as possible, and then drag myself up out of bed at the last possible moment to give myself enough time to get to school, work, or wherever I needed to be. I did this until well into my thirties. I was a hardened night-owl.
 
