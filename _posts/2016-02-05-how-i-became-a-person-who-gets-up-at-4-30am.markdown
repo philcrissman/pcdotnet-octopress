@@ -12,7 +12,7 @@ I used to stay up late, as late as possible, and then drag myself up out of bed 
 
 By the time I was in my mid-thirties, I was also a freelance software developer, and since I was billing by the hour, I was also feeling the pressure to make sure I was getting in sufficient billable hours each week. Doing said hours late at night began to seem untenable: it made it harder to get up the next day, I wasn’t necessarily at my sharpest, and plus it took away the only time I had for hanging out with my wife.
 
-So I decided to switch habits. I’d become a morning person, I figured. I’d get up early and do a few hours of programming before anyone else was even awake. By lunch, I could have five, or even six (billable) hours under my belt, taking a lot of pressure of the latter part of the day. It seemed like a great idea.
+So I decided to switch habits.<!--more--> I’d become a morning person, I figured. I’d get up early and do a few hours of programming before anyone else was even awake. By lunch, I could have five, or even six (billable) hours under my belt, taking a lot of pressure of the latter part of the day. It seemed like a great idea.
 
 It turned out not to be so easy to suddenly change habits, but I did it.
 

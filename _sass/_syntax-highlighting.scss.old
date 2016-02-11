@@ -1,14 +1,13 @@
 /**
  * Syntax highlighting styles
  */
-$spacing-unit:     30px;
-%vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
-}
-
 .highlight {
-    background: #fffff8;
+    background: #fff;
     @extend %vertical-rhythm;
+
+    .highlighter-rouge & {
+      background: #eef;
+    }
 
     .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error

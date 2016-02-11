@@ -58,6 +58,7 @@ PLATFORMS
 DEPENDENCIES
   aws-sdk-v1
   octopress (~> 3.0)
+  rouge
 
 BUNDLED WITH
    1.11.2

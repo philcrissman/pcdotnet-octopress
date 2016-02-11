@@ -15,6 +15,22 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://philcrissman.net" # the base hostname & protocol for your site
 twitter_username: philcrissman
 github_username:  philcrissman
+simple_search: http://google.com/search
 
 # Build settings
 markdown: kramdown
+kramdown:  
+  input: GFM
+  syntax_highlighter: rouge
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+permalink: /articles/:short_year/:title
+timezone: America/New_York
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md

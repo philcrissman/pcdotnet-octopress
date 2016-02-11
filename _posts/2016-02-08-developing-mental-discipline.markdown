@@ -6,7 +6,7 @@ comments: true
 ---
 I think you can develop discipline. You can develop mental toughness. I think of it as a muscle, like any other muscle, and you develop it by using it.
 
-Listening to the [Jocko Podcast](http://jockopodcast2.com/) the other day, Jocko answered a similar question by saying (paraphrased): How do you get up earlier? You... _get up earlier_. How do you stop eating sugar? You... _stop eating sugar_. How do you go to the gym/work out regularly? _Go to the gym and work out regularly_.
+Listening to the [Jocko Podcast](http://jockopodcast2.com/) the other day, Jocko answered a similar question by saying (paraphrased): How do you get up earlier? You... _get up earlier_.<!--more--> How do you stop eating sugar? You... _stop eating sugar_. How do you go to the gym/work out regularly? _Go to the gym and work out regularly_.
 
 I think this is 100% true, but that doesn't change that for many folks, this is not _enough_ advice. They want a step, or steps. What do you do that first time you're tempted to quit? What do you tell yourself that first time (or second, or third) that you're tempted to get off the program? To _make an exception_? Is there a technique? Is there a way to get over that?
 
