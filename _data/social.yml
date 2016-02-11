@@ -4,5 +4,5 @@
   icon: icon-googleplus
 - link: //github.com/philcrissman 
   icon: icon-github
-- link: /feed 
+- link: /feed.xml 
   icon: icon-feed
