@@ -219,6 +219,11 @@ ul { width: 45%;
      -webkit-padding-end: 5%;
      list-style-type: none; }
 
+.now ul {
+  width: 100%;
+  list-style-type: square;
+}
+
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
 figure, figure img.maincolumn { max-width: 55%;
