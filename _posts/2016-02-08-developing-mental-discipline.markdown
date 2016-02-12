@@ -4,7 +4,7 @@ title: "Developing Mental Discipline"
 date: 2016-02-08T09:56:42-08:00
 comments: true
 ---
-I think you can develop discipline. You can develop mental toughness. I think of it as a muscle, like any other muscle, and you develop it by using it.
+{% newthought "I think you can" %} develop discipline. You can develop mental toughness. I think of it as a muscle, like any other muscle, and you develop it by using it.
 
 Listening to the [Jocko Podcast](http://jockopodcast2.com/) the other day, Jocko answered a similar question by saying (paraphrased): How do you get up earlier? You... _get up earlier_.<!--more--> How do you stop eating sugar? You... _stop eating sugar_. How do you go to the gym/work out regularly? _Go to the gym and work out regularly_.
 

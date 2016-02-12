@@ -8,7 +8,7 @@ tags: discipline
 
 {% marginfigure "wake-up" "images/wake-up.jpg" "The Time is Now" %}
 
-I used to stay up late, as late as possible, and then drag myself up out of bed at the last possible moment to give myself enough time to get to school, work, or wherever I needed to be. I did this until well into my thirties. I was a hardened night-owl.
+{% newthought "I used to stay up late," %} as late as possible, and then drag myself up out of bed at the last possible moment to give myself enough time to get to school, work, or wherever I needed to be. I did this until well into my thirties. I was a hardened night-owl.
 
 By the time I was in my mid-thirties, I was also a freelance software developer, and since I was billing by the hour, I was also feeling the pressure to make sure I was getting in sufficient billable hours each week. Doing said hours late at night began to seem untenable: it made it harder to get up the next day, I wasn’t necessarily at my sharpest, and plus it took away the only time I had for hanging out with my wife.
 
