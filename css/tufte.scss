@@ -219,9 +219,13 @@ ul { width: 45%;
      -webkit-padding-end: 5%;
      list-style-type: none; }
 
-.now ul {
-  width: 100%;
+ul.bullet, ul.bullet ul {
   list-style-type: square;
+}
+
+ul.now {
+  width: 100%;
+  // list-style-type: circle;
 }
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
@@ -406,7 +410,7 @@ ul.footer-links li{
 //Full width page styling stuff
 
 body.full-width, .content-listing, ul.content-listing li.listing{ width: 90%;
-       margin-left: auto;
+       margin-left: a;
        margin-right: auto;
        padding: 0% 5%;
 
