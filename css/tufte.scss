@@ -364,13 +364,16 @@ header > nav.group, body footer {
   padding-top: 2rem;
 }
 
-nav.menu a {
-  width: 150px;
-  text-align: center;
-}
+// nav.menu a {
+//   width: 175px;
+//   text-align: center;
+// }
 
-nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
-nav.group a.active:after{ content:"\000a0\0003e" ;}
+nav.menu a.active:before{ content:"\0003c\000a0"; color: #a00000; } // escaped unicode for the carats and then a space on active menu links
+nav.menu a.active:after{ content:"\000a0\0003e" ; color: #a00000; }
+
+nav.menu a:before{ content:"\0003c\000a0"; color: #fffff8;} // escaped unicode for the carats and then a space on active menu links
+nav.menu a:after{ content:"\000a0\0003e"; color: #fffff8;}
 
 header > nav  a{
   font-size: 1.2rem;
@@ -388,6 +391,11 @@ header > nav  a{
   //margin-left: 1rem;
   vertical-align: baseline;
 }
+
+nav.menu a {
+  padding-right: 0rem;
+}
+
 header > nav a img{
   height: 5rem;
   position: relative;
@@ -421,7 +429,7 @@ ul.footer-links li{
 //Full width page styling stuff
 
 body.full-width, .content-listing, ul.content-listing li.listing{ width: 90%;
-       margin-left: a;
+       margin-left: auto;
        margin-right: auto;
        padding: 0% 5%;
 

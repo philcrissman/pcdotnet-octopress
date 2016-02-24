@@ -1,0 +1,77 @@
+---
+layout: page
+title: "Projects"
+---
+<style type="text/css">
+#container {
+  width: 1340px;
+  height: auto;
+}
+
+a.selected {
+  /* font-color: red !important; */
+  font-weight: 800;
+}
+</style>
+
+<a name="top"></a>
+<article>
+  <h2>Le Dogme et le Rituel des Algorithmes de Logiciels</h2>
+  <subtitle>Software Algorithms In Theory And Practice</subtitle>
+  <subtitle>by Philip Crissman</subtitle>
+  <section>
+    <h2>Quicksort</h2>
+    <p>
+    <span class="newthought">This is Quicksort</span> implemented in place in JavaScript, with accompanying visualization performed by Raphael.js<span class="sidenote-number"></span><span class="sidenote"><a href="http://raphaeljs.com">RaphaelJS</a> is a JavaScript library for working with SVG.</span>.
+    </p>
+    <p>
+    All links create an array of 20 elements to be sorted<span class="sidenote-number"></span><span class="sidenote">Please click one of the links below left to start the algorithm's animation.</span>. <em>Random</em> will create an array of random numbers between 0 and 99; <em>Sorted</em> and <em>Reverse Sorted</em> show how this implementation of Quicksort will behave in worst-case scenarios.
+      
+    </p>
+    <p>
+      <div id="array">
+        <div class="now-playing" id="random" style="display:none;">Random</div>
+        <div class="now-playing" id="in-order" style="display:none;">Sorted</div>
+        <div class="now-playing" id="reverse-sorted" style="display:none;">Reverse Sorted</div>
+        <div id="array-links">
+          <a class="array" href="#" id="random">Random</a> | <a class="array" href="#" id="in-order">Sorted</a> | <a class="array" href="#" id="reverse-sorted">Reverse Sorted</a>
+        </div>
+      </div>
+    </p>
+    <p>
+      <div id="speed">
+        <strong>Speed:</strong> <a class="speed" href="#" id="slower">Slower</a> | <a class="selected speed" href="#" id="default">Default</a> | <a class = "speed" href="#" id="faster">Faster</a><!-- | <strong>Theme:</strong> <a href="#" id="toggle">Dark</a> -->
+      </div>
+    </p>
+    <p>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://quicksort.herokuapp.com/" data-text="Quicksort Visualization" data-via="philcrissman" data-size="large">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      |
+      <a href="#errata">Errata</a>
+    </p>
+  </section>
+  <section>
+    <div id="container">
+      &nbsp;
+    </div>
+  </section>
+  <section>
+    <a name="errata"></a>
+    <p>
+      <a href="#top">Back to top</a>
+    </p>
+    <p>
+    <span class="newthought">Sometimes I write things</span> about software<span class="sidenote-number"></span><span class="sidenote">See <a href="http://philcrissman.net">philcrissman.net</a>.</span>. Is this interesting? I have a newsletter that I always forget to send! But I will, sometimes, I promise. You should sign up. Or don't, it's cool.
+ <form style="padding:3px;" action="https://tinyletter.com/philcrissman" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/philcrissman', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address to sign up:</label></p><p><input type="text" style="width:340px;font-family: monospace; font-size: 1.5em;" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" style="font-size: 1.5em;"/><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+    </p>
+    <p>
+    <a href="https://twitter.com/philcrissman" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @philcrissman</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </p>
+  </section>
+</article>
+
+<script src="assets/js/raphael-min.js"></script>
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/qs.js"></script>
+
