@@ -104,7 +104,7 @@ This _still_ has a problem, though. If we want to go from version "10.9" to "11.
   end
 {% endhighlight %}
 
-There are ways you could take the same algorithm I started with and make it work. Instead, I decided to change tactits. The 3rd algorithm:
+There are ways you could take the same algorithm I started with and make it work. Instead, I decided to change tactics. The 3rd algorithm:
 
 1. Splits the version string into a array of integers and reverses it.
 2. Adds 1 to the first element in the array.
