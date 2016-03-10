@@ -8,7 +8,7 @@ comments: true
 In the [Yammer](http://www.yammer.com) Redmond office, we usually do a little coding Dojo on Wednesday after lunch. We pick a small problem and work on it (individually or in pairs) and then compare our solutions.
 
 Yesterday the problem was called "Next Version":
-
+<!--more-->
 
 > Create a function nextVersion, that will take a string in parameter, and will return a string containing the next version number.
 
