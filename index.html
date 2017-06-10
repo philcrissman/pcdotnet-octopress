@@ -12,7 +12,7 @@ title: blog
         <article class="group">
           <hr class="slender">
           <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
-          <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
+          <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }} <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></span>  <br/>
           <div>{% if post.excerpt %}{{ post.excerpt }}<a href="{{ post.url | prepend: site.baseurl }}">&raquo; continue reading</a>{% endif %}</div> 
         </article>
         <!-- </li> -->
